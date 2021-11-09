@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328177419458",
+    "firebase_url": "https://employee-attendance-ec296.firebaseio.com",
+    "project_id": "employee-attendance-ec296",
+    "storage_bucket": "employee-attendance-ec296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328177419458:android:08cd3a37832505a038675b",
+        "android_client_info": {
+          "package_name": "com.demo.emat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328177419458-5ul421l14n333a964r143l8ufeesqigp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWW_DlTJz9GDXwmAUlXe-1TD_VdNrmBew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328177419458-5ul421l14n333a964r143l8ufeesqigp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
